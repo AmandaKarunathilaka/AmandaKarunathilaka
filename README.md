@@ -1,3 +1,15 @@
+<!-- ==================== HEADER ==================== -->
+
+<h1 align="center">Hi 👋 I'm Amanda Karunathilaka</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer" />
+  </a>
+</p>
+
+---
+
 ## 💡 Introduction
 
 I am an aspiring Software Engineer and AI enthusiast currently pursuing my studies in Information and Communication Technology.
@@ -11,11 +23,12 @@ I am particularly interested in applying technology to education and predictive 
 
 ### 🎓 University Management System
 
-A Java-based system designed using the MVC architecture to manage academic operations with role-based access and database integration.
+A Java-based system designed using the MVC architecture to manage academic operations with role-based access and database integration. Also a parallel integration of the web version using pure HTML, CSS and JS which is hosted on netlify.
 
 ### ✈️ Flight Ticket Price Prediction
 
 A machine learning model developed using real-world data to predict airline ticket prices and analyze pricing trends.
+
 
 ---
 
@@ -25,6 +38,19 @@ A machine learning model developed using real-world data to predict airline tick
 * Python with **AI and Machine Learning fundamentals**
 * Flutter development using Dart
 * Preparing for **JLPT N2 examination**
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmandaKarunathilaka&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=AmandaKarunathilaka&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaKarunathilaka&layout=compact&theme=tokyonight" height="150"/>
+</p>
 
 ---
 
@@ -65,3 +91,41 @@ A machine learning model developed using real-world data to predict airline tick
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="45" title="Selenium"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="45" title="Postman"/>
 </p>
+
+---
+
+## 🏆 Certificates
+
+<p align="center">
+  <img src="images/certificate1.png" width="350"/>
+  <img src="images/certificate2.png" width="350"/>
+</p>
+
+<!-- 
+📌 IMPORTANT:
+1. Create a folder in your repo called: images
+2. Upload your certificate images there
+3. Rename them like: certificate1.png, certificate2.png
+-->
+
+---
+
+<h2 align="center">🌐 Connect with Me</h2>
+
+<a href="www.linkedin.com/in/amanda-karunathilaka-5681792b1" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" title="LinkedIn"/>
+</a>
+
+<a href="https://github.com/AmandaKarunathilaka" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub"/>
+</a>
+
+<a href="https://www.youtube.com/@codeeffect-t1t" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="45" title="YouTube"/>
+</a>
+
+<a href="https://medium.com/@amandakarunathilaka490" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png"
+       height="45"
+       title="Medium"/>
+</a>
