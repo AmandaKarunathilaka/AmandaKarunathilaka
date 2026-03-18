@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amanda Karunathilaka</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka.</h3>
 
-- 🔭 I’m currently working on **Portfolio Website**
+- 🔭 I’m currently working on **Portfolio Website and flutter to-do app** 
 
 - 🌱 I’m currently learning **Flutter, Typescript, Tailwind CSS, Next.js Python, AI, ML**
 
