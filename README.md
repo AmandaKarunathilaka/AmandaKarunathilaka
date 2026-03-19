@@ -94,22 +94,6 @@ A machine learning model developed using real-world data to predict airline tick
 
 ---
 
-## 🏆 Certificates
-
-<p align="center">
-  <img src="images/certificate1.png" width="350"/>
-  <img src="images/certificate2.png" width="350"/>
-</p>
-
-<!-- 
-📌 IMPORTANT:
-1. Create a folder in your repo called: images
-2. Upload your certificate images there
-3. Rename them like: certificate1.png, certificate2.png
--->
-
----
-
 <h2 align="center">🌐 Connect with Me</h2>
 
 <a href="www.linkedin.com/in/amanda-karunathilaka-5681792b1" target="_blank">
