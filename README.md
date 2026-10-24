@@ -36,7 +36,7 @@ A machine learning model developed using real-world data to predict airline tick
 
 * Portfolio website development using **Next.js, Tailwind CSS, and TypeScript**
 * Python with **AI and Machine Learning fundamentals**
-* Flutter development using Dart
+* Learning Agentic AI
 * Preparing for **JLPT N2 examination**
 
 ---
