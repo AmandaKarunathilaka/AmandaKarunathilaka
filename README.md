@@ -250,16 +250,6 @@ Lanka Nippon BizTech Institute | 2023 – Present
 
 ---
 
-## 🐍 My Contribution Journey
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/AmandaKarunathilaka/AmandaKarunathilaka/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
