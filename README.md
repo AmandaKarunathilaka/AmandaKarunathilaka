@@ -1,4 +1,5 @@
-<!-- ================= HEADER ================= -->
+
+<!-- =============== HEADER =============== -->
 
 <div align="center">
 
@@ -10,10 +11,10 @@
 
 <p>
 <a href="https://github.com/AmandaKarunathilaka">
-<img src="https://komarev.com/ghpvc/?username=AmandaKarunathilaka&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=AmandaKarunathilaka&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" />
 </a>
 <a href="https://github.com/AmandaKarunathilaka?tab=followers">
-<img src="https://img.shields.io/github/followers/AmandaKarunathilaka?style=for-the-badge&color=blue"/>
+<img src="https://img.shields.io/github/followers/AmandaKarunathilaka?style=for-the-badge&color=blue" />
 </a>
 </p>
 
@@ -21,118 +22,91 @@
 
 ---
 
-<!-- ================= ABOUT ME ================= -->
-
 ## 💫 About Me
 
-class Amanda:
-    def __init__(self):
-        self.name = "Amanda Karunathilaka"
-        self.role = "Computing Undergraduate"
-        self.university = "University of Greenwich"
-        self.gpa = 4.0
+I'm **Amanda Karunathilaka**, a Computing undergraduate at the **University of Greenwich**, with a perfect academic record (GPA: **4.0**) and a strong passion for Artificial Intelligence, Machine Learning, and Software Engineering.
 
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Agentic AI",
-            "Full Stack Development",
-            "Intelligent Systems"
-        ]
+I enjoy transforming ideas into practical applications, solving real-world problems, and exploring emerging technologies.
 
-        self.currently_learning = [
-            "RAG",
-            "OpenAI SDK",
-            "Tool Calling",
-            "Multi-Agent Systems",
-            "n8n Automation"
-        ]
+- 🎓 Computing Undergraduate | University of Greenwich
+- 🏆 GPA: 4.0 | First Year Dean's Awards (Both Semesters)
+- 🤖 Passionate about Artificial Intelligence and Machine Learning
+- 💻 Interested in Full Stack Development and Intelligent Systems
+- 🧠 Exploring Agentic AI, RAG, and LLM-powered applications
+- 🇯🇵 JLPT N3 Certified | Preparing for N2
 
-    def say_hi(self):
-        print("Thanks for visiting my GitHub!")
-        print("Let's build something amazing!")
+### 🎯 Areas of Interest
 
-me = Amanda()
-me.say_hi()
-
-
-- 🎓 Computing undergraduate with a **4.0 GPA**.
-- 🏆 First Year Dean's Awards – Both Semesters.
-- 🤖 Passionate about AI, ML, and intelligent applications.
-- 💻 Interested in building scalable software solutions.
-- 🌱 Exploring Agentic AI, RAG, and LLM-powered applications.
-- 🇯🇵 JLPT N3 certified | Preparing for N2.
+<p>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agentic_AI-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full_Stack_Development-1572B6?style=for-the-badge"/>
+</p>
 
 ---
 
-<!-- ================= TECH STACK ================= -->
+## 🧠 Currently Learning
+
+<p align="center">
+<img src="https://img.shields.io/badge/RAG-Exploring-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI_SDK-Learning-black?style=for-the-badge&logo=openai"/>
+<img src="https://img.shields.io/badge/Tool_Calling-Learning-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-Exploring-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n"/>
+</p>
+
+- Retrieval-Augmented Generation (RAG)
+- OpenAI SDK and LLM Integration
+- Tool Calling and Function Calling
+- Agentic AI and Autonomous Agents
+- Multi-Agent Architectures
+- n8n Workflow Automation
+
+---
 
 ## 🛠️ Tech Stack & Technologies
 
 ### 💻 Programming Languages
 
 <p>
-<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" height="45"/></a>
-<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="45"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" height="45"/></a>
-<a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" height="45"/></a>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c&theme=dark"/>
 </p>
 
 ### 🌐 Frontend Development
 
 <p>
-<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="45"/></a>
-<a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" height="45"/></a>
-<a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" height="45"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="45"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="45"/></a>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark"/>
 </p>
 
 ### ⚙️ Backend & Database
 
 <p>
-<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="45"/></a>
-<a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" height="45"/></a>
-<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="45"/></a>
-<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" height="45"/></a>
-<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" height="45"/></a>
-<a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase" height="45"/></a>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,postgres,supabase&theme=dark"/>
 </p>
 
 ### 🤖 AI & Machine Learning
 
 <p>
-<a href="https://numpy.org/"><img src="https://skillicons.dev/icons?i=numpy" height="45"/></a>
-<a href="https://pandas.pydata.org/"><img src="https://skillicons.dev/icons?i=pandas" height="45"/></a>
-<a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=sklearn" height="45"/></a>
-<a href="https://ollama.com/"><img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" height="28"/></a>
-<a href="https://n8n.io/"><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="28"/></a>
+<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
 </p>
-
-**Currently Exploring:**
-
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-Exploring-blueviolet?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-Learning-blue?style=flat-square)
-![OpenAI SDK](https://img.shields.io/badge/OpenAI_SDK-Learning-black?style=flat-square)
-![Tool Calling](https://img.shields.io/badge/Tool_Calling-Learning-green?style=flat-square)
-![Multi Agent](https://img.shields.io/badge/Multi--Agent_Systems-Exploring-orange?style=flat-square)
 
 ### ☁️ Tools & Deployment
 
 <p>
-<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="45"/></a>
-<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
-<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="45"/></a>
-<a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" height="45"/></a>
-<a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" height="45"/></a>
-<a href="https://postman.com/"><img src="https://skillicons.dev/icons?i=postman" height="45"/></a>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,postman&theme=dark"/>
 </p>
 
-**Other tools:** Render, Postman, Supabase, AWS PartyRock.
+<p>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+<img src="https://img.shields.io/badge/AWS_PartyRock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 
 ---
-
-<!-- ================= PROJECTS ================= -->
 
 ## 🚀 Featured Projects
 
@@ -141,12 +115,12 @@ me.say_hi()
 
 A full-stack carpooling platform designed to connect drivers and passengers, encourage ride sharing, and reduce carbon emissions.
 
-- MERN stack development.
-- Clean Architecture principles.
+- Developed using the MERN stack.
+- Applied Clean Architecture principles.
 - Frontend deployed on Vercel.
 - Backend deployed on Render.
 
-**Stack:** MongoDB | Express.js | React | Node.js
+**Technologies:** MongoDB | Express.js | React | Node.js
 
 </details>
 
@@ -155,11 +129,11 @@ A full-stack carpooling platform designed to connect drivers and passengers, enc
 
 A desktop chatbot powered by a locally running Large Language Model.
 
-- Integrated Phi-3 using Ollama.
+- Integrated the Phi-3 model using Ollama.
 - Developed an interactive desktop interface.
 - Used Python and CustomTkinter.
 
-**Stack:** Python | Ollama | Phi-3
+**Technologies:** Python | Ollama | Phi-3 | CustomTkinter
 
 </details>
 
@@ -169,11 +143,11 @@ A desktop chatbot powered by a locally running Large Language Model.
 A role-based meteorological data management application.
 
 - Admin and User access levels.
-- Temperature, rainfall, and humidity management.
-- Historical data filtering by month and location.
+- Administrators can manage temperature, rainfall, and humidity records.
+- Users can explore historical weather data by month and location.
 - MySQL database integration.
 
-**Stack:** Java | MySQL
+**Technologies:** Java | MySQL
 
 </details>
 
@@ -187,7 +161,7 @@ A Java-based university management application.
 - Database integration.
 - Desktop interface using Java Swing.
 
-**Stack:** Java | Swing | MySQL
+**Technologies:** Java | Swing | MySQL
 
 </details>
 
@@ -196,44 +170,25 @@ A Java-based university management application.
 
 A responsive portfolio website showcasing my development journey.
 
-- Responsive UI.
+- Responsive user interface.
 - Light and dark themes.
 - Reusable components.
+- Modern web technologies.
 
-**Stack:** Next.js | React | TypeScript | Tailwind CSS
+**Technologies:** Next.js | React | TypeScript | Tailwind CSS
 
 </details>
 
 <details>
 <summary><b>✈️ Flight Ticket Price Prediction</b></summary>
 
-A machine learning project to predict airline ticket prices using real-world datasets.
+A machine learning project focused on predicting airline ticket prices using real-world datasets and identifying pricing trends.
 
-**Stack:** Python | Pandas | NumPy | Scikit-learn
+**Technologies:** Python | Pandas | NumPy | Scikit-learn
 
 </details>
 
 ---
-
-<!-- ================= CURRENT LEARNING ================= -->
-
-## 🧠 Currently Learning – My AI Journey
-
-<img align="right" width="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-- Agentic AI & Autonomous Agents
-- Retrieval-Augmented Generation (RAG)
-- OpenAI SDK & LLM Integration
-- Tool Calling & Function Calling
-- Multi-Agent Architectures
-- n8n Workflow Automation
-- AI-powered Applications
-
-<br clear="right"/>
-
----
-
-<!-- ================= EDUCATION ================= -->
 
 ## 🎓 Education & Certifications
 
@@ -245,7 +200,10 @@ Lanka Nippon BizTech Institute | 2023 – Present
 - First Year Dean's Awards – Both Semesters
 - Faculty Award
 
-**Certifications**
+<details>
+<summary><b>📜 View Certifications</b></summary>
+
+**Artificial Intelligence**
 
 - Google AI Essentials – Coursera
 - Introduction to Generative AI – Google Cloud
@@ -253,24 +211,40 @@ Lanka Nippon BizTech Institute | 2023 – Present
 - Introduction to Responsible AI – Google Cloud
 - AWS AI Practitioner Challenge – Udacity
 - AWS AI & ML Scholars – 2026 Challenge Completion
+
+**Technical**
+
 - Postman API Fundamentals Student Expert
+- Learning SQL Programming – LinkedIn Learning
+- MongoDB Beginner – LinkedIn Learning
+- Project Management Course – Simplilearn
+
+**Languages**
+
 - JLPT N5, N4, N3 – Japan Foundation
+
+</details>
 
 ---
 
-<!-- ================= GITHUB ANALYTICS ================= -->
+## 🌟 Leadership & Activities
+
+- **Secretary – Japanese Club** (May 2026 – October 2026)
+- **Assistant Secretary – IT Club, LNBTI** (October 2025 – May 2026)
+
+---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmandaKarunathilaka&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmandaKarunathilaka&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmandaKarunathilaka&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=AmandaKarunathilaka&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-<br/>
+<br/><br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaKarunathilaka&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaKarunathilaka&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 </div>
 
@@ -280,42 +254,38 @@ Lanka Nippon BizTech Institute | 2023 – Present
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AmandaKarunathilaka/AmandaKarunathilaka/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
+<img src="https://raw.githubusercontent.com/AmandaKarunathilaka/AmandaKarunathilaka/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 
 </div>
 
-*Note: The contribution snake requires a GitHub Actions workflow to generate the SVG.*
-
 ---
 
-<!-- ================= CONNECT ================= -->
-
-## 🌐 Let's Connect!
+## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/amanda-karunathilaka-5681792b1">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/AmandaKarunathilaka">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.youtube.com/@codeeffect-t1t">
-<img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube"/>
+<img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 <a href="https://medium.com/@amandakarunathilaka490">
-<img src="https://img.shields.io/badge/Medium-Read-000000?style=for-the-badge&logo=medium"/>
+<img src="https://img.shields.io/badge/Medium-Read-000000?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-### 💙 Thanks for visiting my profile!
+**💙 Thanks for visiting my profile!**
 
-*"Learning continuously. Building intelligently. Exploring the future of AI."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%"/>
+*Learning continuously. Building intelligently. Exploring the future of AI.*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%"/>
