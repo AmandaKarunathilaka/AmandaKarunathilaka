@@ -25,7 +25,6 @@
 
 ## 💫 About Me
 
-```python
 class Amanda:
     def __init__(self):
         self.name = "Amanda Karunathilaka"
@@ -55,7 +54,7 @@ class Amanda:
 
 me = Amanda()
 me.say_hi()
-```
+
 
 - 🎓 Computing undergraduate with a **4.0 GPA**.
 - 🏆 First Year Dean's Awards – Both Semesters.
