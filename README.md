@@ -1,180 +1,252 @@
-# 👋 Hi, I'm Amanda Karunathilaka
+<!-- ================= HEADER ================= -->
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Computing+Undergraduate;Aspiring+AI+Engineer;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Exploring+Agentic+AI+%26+Intelligent+Systems" />
-  </a>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Amanda%20Karunathilaka&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20in%20Progress%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=17" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computing+Undergraduate+%7C+GPA+4.0;Artificial+Intelligence+%26+Machine+Learning;Exploring+Agentic+AI+%26+Multi-Agent+Systems;Building+Intelligent+Applications;Always+Learning+Something+New!" />
+</a>
+
+<p>
+<a href="https://github.com/AmandaKarunathilaka">
+<img src="https://komarev.com/ghpvc/?username=AmandaKarunathilaka&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"/>
+</a>
+<a href="https://github.com/AmandaKarunathilaka?tab=followers">
+<img src="https://img.shields.io/github/followers/AmandaKarunathilaka?style=for-the-badge&color=blue"/>
+</a>
 </p>
 
----
-
-## 💡 About Me
-
-I'm a **Computing undergraduate at the University of Greenwich** with a **perfect academic record (GPA: 4.0)** and a strong passion for Artificial Intelligence, Machine Learning, and Software Engineering.
-
-I enjoy transforming ideas into practical solutions through software development and exploring how AI can make applications smarter and more useful.
-
-Currently, I'm expanding my knowledge in **Agentic AI, Retrieval-Augmented Generation (RAG), LLM integration, and multi-agent systems**, while strengthening my full-stack development and machine learning skills.
-
-- 🎓 BSc (Hons) Computing | University of Greenwich
-- 🏆 GPA: 4.0 | First Year Dean's Awards (both semesters)
-- 🤖 Interested in AI Engineering, Machine Learning, and Agentic Systems
-- 💻 Experienced in Java, Python, JavaScript, and Full Stack Development
-- 🌱 Currently exploring LLMs, RAG, AI Agents, and workflow automation
-- 🇯🇵 Learning Japanese | JLPT N3 Certified
+</div>
 
 ---
 
-## 🚀 Featured Projects
+<!-- ================= ABOUT ME ================= -->
 
-### 🚗 RideLink – Smart Carpooling System
+## 💫 About Me
 
-A full-stack carpooling platform designed to connect drivers and passengers, encourage ride sharing, and help reduce carbon emissions.
+```python
+class Amanda:
+    def __init__(self):
+        self.name = "Amanda Karunathilaka"
+        self.role = "Computing Undergraduate"
+        self.university = "University of Greenwich"
+        self.gpa = 4.0
 
-- Developed using the MERN stack.
-- Applied Clean Architecture principles.
-- Implemented frontend and backend applications.
-- Deployed using Vercel and Render.
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Agentic AI",
+            "Full Stack Development",
+            "Intelligent Systems"
+        ]
 
-**Technologies:** MongoDB, Express.js, React, Node.js
+        self.currently_learning = [
+            "RAG",
+            "OpenAI SDK",
+            "Tool Calling",
+            "Multi-Agent Systems",
+            "n8n Automation"
+        ]
 
-### 🌦️ Meteorological Data Analysis System
+    def say_hi(self):
+        print("Thanks for visiting my GitHub!")
+        print("Let's build something amazing!")
 
-A role-based application for managing and exploring historical meteorological data.
+me = Amanda()
+me.say_hi()
+```
 
-- Implemented Admin and User access levels.
-- Administrators can manage temperature, rainfall, and humidity records.
-- Users can explore historical weather data by month and location.
-- Integrated MySQL for data storage and retrieval.
-
-**Technologies:** Java, MySQL
-
-### 🤖 Local AI Chatbot
-
-A desktop chatbot application powered by a locally running Large Language Model.
-
-- Integrated the Phi-3 model using Ollama.
-- Developed an interactive desktop interface.
-- Used Python and CustomTkinter for the application.
-
-**Technologies:** Python, Ollama, Phi-3, CustomTkinter
-
-### 🎓 University Management System
-
-A Java-based university management application designed using MVC architecture.
-
-- Implemented role-based access control.
-- Integrated database operations.
-- Developed a desktop interface using Java Swing.
-- Created a complementary web-based interface.
-
-**Technologies:** Java, Java Swing, MySQL, MVC
-
-### 🌐 Personal Portfolio Website
-
-A responsive portfolio website showcasing my projects, technical skills, and development journey.
-
-- Designed a responsive and modern user interface.
-- Implemented light and dark themes.
-- Focused on reusable components and responsive layouts.
-
-**Technologies:** React, Next.js, TypeScript, Tailwind CSS
-
-### ✈️ Flight Ticket Price Prediction
-
-A machine learning project focused on predicting airline ticket prices using real-world data and identifying pricing trends.
-
-**Technologies:** Python, Pandas, NumPy, Scikit-learn
+- 🎓 Computing undergraduate with a **4.0 GPA**.
+- 🏆 First Year Dean's Awards – Both Semesters.
+- 🤖 Passionate about AI, ML, and intelligent applications.
+- 💻 Interested in building scalable software solutions.
+- 🌱 Exploring Agentic AI, RAG, and LLM-powered applications.
+- 🇯🇵 JLPT N3 certified | Preparing for N2.
 
 ---
 
-## 🧠 Currently Exploring
+<!-- ================= TECH STACK ================= -->
 
-I'm actively expanding my knowledge in the following areas:
-
-- **Agentic AI:** AI agents, autonomous workflows, and multi-agent architectures.
-- **LLM Development:** OpenAI SDK, LLM integration, and prompt engineering.
-- **RAG:** Retrieval-Augmented Generation and knowledge-based AI applications.
-- **Tool Calling:** Connecting AI models with external tools, APIs, and services.
-- **Workflow Automation:** n8n and AI-powered workflow orchestration.
-- **AI & Machine Learning:** Model development, data analysis, and intelligent applications.
-
----
-
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack & Technologies
 
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" title="C"/>
+<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" height="45"/></a>
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="45"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" height="45"/></a>
+<a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" height="45"/></a>
 </p>
 
 ### 🌐 Frontend Development
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" title="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="45" title="Tailwind CSS"/>
+<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="45"/></a>
+<a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" height="45"/></a>
+<a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" height="45"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="45"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="45"/></a>
 </p>
 
 ### ⚙️ Backend & Database
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" title="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" title="PostgreSQL"/>
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="45"/></a>
+<a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" height="45"/></a>
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="45"/></a>
+<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" height="45"/></a>
+<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" height="45"/></a>
+<a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase" height="45"/></a>
 </p>
 
 ### 🤖 AI & Machine Learning
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" title="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" title="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45" title="Scikit-learn"/>
+<a href="https://numpy.org/"><img src="https://skillicons.dev/icons?i=numpy" height="45"/></a>
+<a href="https://pandas.pydata.org/"><img src="https://skillicons.dev/icons?i=pandas" height="45"/></a>
+<a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=sklearn" height="45"/></a>
+<a href="https://ollama.com/"><img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" height="28"/></a>
+<a href="https://n8n.io/"><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="28"/></a>
 </p>
 
-**Exploring:** Agentic AI, RAG, OpenAI SDK, LLMs, Tool Calling, Multi-Agent Systems, n8n, Ollama, AWS PartyRock.
+**Currently Exploring:**
 
-### ☁️ Deployment & Development Tools
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-Exploring-blueviolet?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-Learning-blue?style=flat-square)
+![OpenAI SDK](https://img.shields.io/badge/OpenAI_SDK-Learning-black?style=flat-square)
+![Tool Calling](https://img.shields.io/badge/Tool_Calling-Learning-green?style=flat-square)
+![Multi Agent](https://img.shields.io/badge/Multi--Agent_Systems-Exploring-orange?style=flat-square)
+
+### ☁️ Tools & Deployment
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" title="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="45" title="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="45" title="Vercel"/>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="45"/></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="45"/></a>
+<a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" height="45"/></a>
+<a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" height="45"/></a>
+<a href="https://postman.com/"><img src="https://skillicons.dev/icons?i=postman" height="45"/></a>
 </p>
 
-**Other Tools:** Render, Supabase, Ollama.
-
-### 🏗️ Software Engineering Concepts
-
-- Object-Oriented Programming (OOP)
-- MVC Architecture
-- Clean Architecture
-- Software Development Life Cycle (SDLC)
-- REST API Development
-- Basic Machine Learning
+**Other tools:** Render, Postman, Supabase, AWS PartyRock.
 
 ---
 
-## 🎓 Education & Achievements
+<!-- ================= PROJECTS ================= -->
 
-**BSc (Hons) Computing – University of Greenwich**  
+## 🚀 Featured Projects
+
+<details open>
+<summary><b>🚗 RideLink – Smart Carpooling System</b></summary>
+
+A full-stack carpooling platform designed to connect drivers and passengers, encourage ride sharing, and reduce carbon emissions.
+
+- MERN stack development.
+- Clean Architecture principles.
+- Frontend deployed on Vercel.
+- Backend deployed on Render.
+
+**Stack:** MongoDB | Express.js | React | Node.js
+
+</details>
+
+<details>
+<summary><b>🤖 Local AI Chatbot</b></summary>
+
+A desktop chatbot powered by a locally running Large Language Model.
+
+- Integrated Phi-3 using Ollama.
+- Developed an interactive desktop interface.
+- Used Python and CustomTkinter.
+
+**Stack:** Python | Ollama | Phi-3
+
+</details>
+
+<details>
+<summary><b>🌦️ Meteorological Data Analysis System</b></summary>
+
+A role-based meteorological data management application.
+
+- Admin and User access levels.
+- Temperature, rainfall, and humidity management.
+- Historical data filtering by month and location.
+- MySQL database integration.
+
+**Stack:** Java | MySQL
+
+</details>
+
+<details>
+<summary><b>🎓 University Management System</b></summary>
+
+A Java-based university management application.
+
+- MVC architecture.
+- Role-based access control.
+- Database integration.
+- Desktop interface using Java Swing.
+
+**Stack:** Java | Swing | MySQL
+
+</details>
+
+<details>
+<summary><b>🌐 Personal Portfolio Website</b></summary>
+
+A responsive portfolio website showcasing my development journey.
+
+- Responsive UI.
+- Light and dark themes.
+- Reusable components.
+
+**Stack:** Next.js | React | TypeScript | Tailwind CSS
+
+</details>
+
+<details>
+<summary><b>✈️ Flight Ticket Price Prediction</b></summary>
+
+A machine learning project to predict airline ticket prices using real-world datasets.
+
+**Stack:** Python | Pandas | NumPy | Scikit-learn
+
+</details>
+
+---
+
+<!-- ================= CURRENT LEARNING ================= -->
+
+## 🧠 Currently Learning – My AI Journey
+
+<img align="right" width="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+- Agentic AI & Autonomous Agents
+- Retrieval-Augmented Generation (RAG)
+- OpenAI SDK & LLM Integration
+- Tool Calling & Function Calling
+- Multi-Agent Architectures
+- n8n Workflow Automation
+- AI-powered Applications
+
+<br clear="right"/>
+
+---
+
+<!-- ================= EDUCATION ================= -->
+
+## 🎓 Education & Certifications
+
+**BSc (Hons) Computing – University of Greenwich**
+
 Lanka Nippon BizTech Institute | 2023 – Present
 
-- GPA: **4.0**
+- GPA: 4.0
 - First Year Dean's Awards – Both Semesters
 - Faculty Award
-- Foundation Completed
 
-**Certifications & Learning**
+**Certifications**
 
 - Google AI Essentials – Coursera
 - Introduction to Generative AI – Google Cloud
@@ -187,48 +259,64 @@ Lanka Nippon BizTech Institute | 2023 – Present
 
 ---
 
-## 🌱 Beyond Coding
-
-- 🇯🇵 Learning Japanese and preparing for JLPT N2.
-- 👩‍💻 Secretary – Japanese Club.
-- 💻 Former Assistant Secretary – IT Club, LNBTI.
-- 🤝 Interested in collaborative projects, research, and emerging technologies.
-
----
+<!-- ================= GITHUB ANALYTICS ================= -->
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmandaKarunathilaka&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=AmandaKarunathilaka&theme=tokyonight" height="180"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaKarunathilaka&layout=compact&theme=tokyonight" height="150"/>
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmandaKarunathilaka&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AmandaKarunathilaka&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaKarunathilaka&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## 🐍 My Contribution Journey
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/amanda-karunathilaka-5681792b1" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" title="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/AmandaKarunathilaka" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub"/>
-  </a>
-  &nbsp;
-  <a href="https://www.youtube.com/@codeeffect-t1t" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="40" title="YouTube"/>
-  </a>
-  &nbsp;
-  <a href="https://medium.com/@amandakarunathilaka490" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" height="40" title="Medium"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>"Always learning, building, and exploring what's possible with technology."</i>
-</p>
+<img src="https://raw.githubusercontent.com/AmandaKarunathilaka/AmandaKarunathilaka/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
+
+</div>
+
+*Note: The contribution snake requires a GitHub Actions workflow to generate the SVG.*
+
+---
+
+<!-- ================= CONNECT ================= -->
+
+## 🌐 Let's Connect!
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/amanda-karunathilaka-5681792b1">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/AmandaKarunathilaka">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.youtube.com/@codeeffect-t1t">
+<img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube"/>
+</a>
+
+<a href="https://medium.com/@amandakarunathilaka490">
+<img src="https://img.shields.io/badge/Medium-Read-000000?style=for-the-badge&logo=medium"/>
+</a>
+
+<br/><br/>
+
+### 💙 Thanks for visiting my profile!
+
+*"Learning continuously. Building intelligently. Exploring the future of AI."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%"/>
+
+</div>
